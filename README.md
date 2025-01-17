@@ -1,8 +1,8 @@
 # PUC-I-YEAR-2024-AIML-C
 
 ## Done By:
-### Pradhikshya Anand
-### 241501143
+### NITHIN DANIEL R
+### 241501133
 ### AIML "C"
 ### 1st Year
 ### 2024 - 2025
